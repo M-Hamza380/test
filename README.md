@@ -1,1 +1,3 @@
-# Multiple Linear Regression with Stochastic Gradient Descent
+# Machine Learning models with details
+
+
